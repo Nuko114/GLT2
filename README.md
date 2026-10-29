@@ -5,7 +5,7 @@ I am majoring in Cybersecurity and I am enrolled at UTSA.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
-![Metal_and_Guitar]
+![Metal_and_Guitar](https://shields.io)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Video Games]
 ## 🔗 Links
